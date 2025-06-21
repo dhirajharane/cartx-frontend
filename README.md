@@ -2,7 +2,7 @@
 
 Welcome to **CartX** – a modern, responsive web app to manage and showcase your item collection with ease!
 
-![CartX Banner](https://images.unsplash.com/photo-1515168833906-d2a3b82b1e2e?auto=format&fit=crop&w=1200&q=80)
+
 
 ---
 
